@@ -5,7 +5,7 @@
 💻 23 Years old Developer  
 🎓 Studying Computer Engineering
 
-🚧 **Current Project:** [Phone Store App](https://github.com/pongsakorn-maker/vue-phone-store)  
+🚧 **Current Project:** [Phone Store App](https://github.com/pongsakorn-maker/phone-store)  
 
 
 
