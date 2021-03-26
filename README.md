@@ -10,6 +10,6 @@
 
 ### 💻 Domain Knowledge and Skills [Reactjs, Vuejs, Express, Nodejs, Cypress, Firebase, HTML, CSS&SCSS&SASS, Go, Spring Boot, Docker, Java]
 
-### 💼 **Current Job:** [Agile Engineer](https://www.odd-e.com/th/services/)  
+### 💼 **Current Job as Cooperative Education Student :** [Agile Engineer](https://www.odd-e.com/th/services/)  
 
 ### 🚧 **Current Project:** [Phone Store App](https://github.com/pongsakorn-maker/phone-store)  
