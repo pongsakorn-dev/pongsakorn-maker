@@ -14,3 +14,10 @@
 
 ### 🚧 **Current Working Project:** [Phone Store App](https://github.com/pongsakorn-maker/phone-store)  
 ### 🚧 **Current Working Project:** [Phone Store API](https://github.com/pongsakorn-maker/phone-store-api) 
+
+| HTTP method | RFC | Request has Body | Response has Body | Safe | Idempotent | Cacheable |
+|---|---|---|---|---|---|---|
+| GET | RFC 7231 | Optional | Yes | Yes | Yes | Yes |
+| POST | RFC 7231 | Yes | Yes | No | No | Yes |
+| PUT | RFC 7231 | Yes | Yes | No | Yes | No |
+| PATCH | RFC 5789 | Yes | Yes | No | No | No |
