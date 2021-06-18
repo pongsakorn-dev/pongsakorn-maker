@@ -14,9 +14,4 @@
 
 ### 🚧 **Current Working Project:** [E-Commerce App Using ReactJs](https://github.com/pongsakorn-maker/e-commerce)  
 
-| HTTP method | RFC | Request has Body | Response has Body | Safe | Idempotent | Cacheable |
-|---|---|---|---|---|---|---|
-| GET | RFC 7231 | Optional | Yes | Yes | Yes | Yes |
-| POST | RFC 7231 | Yes | Yes | No | No | Yes |
-| PUT | RFC 7231 | Yes | Yes | No | Yes | No |
-| PATCH | RFC 5789 | Yes | Yes | No | No | No |
+![ภาพ](https://user-images.githubusercontent.com/42669586/122533089-5e690e80-d04b-11eb-9717-d464663df5c6.png)
