@@ -13,7 +13,6 @@
 ### 💼 **Current Job as Cooperative Education Student :** [Agile Engineer](https://www.odd-e.com/th/services/)  
 
 ### 🚧 **Current Working Project:** [Phone Store App](https://github.com/pongsakorn-maker/phone-store)  
-### 🚧 **Current Working Project:** [Phone Store API](https://github.com/pongsakorn-maker/phone-store-api) 
 
 | HTTP method | RFC | Request has Body | Response has Body | Safe | Idempotent | Cacheable |
 |---|---|---|---|---|---|---|
