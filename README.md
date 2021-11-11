@@ -10,8 +10,7 @@
 
 ### 💻 Domain Knowledge and Skills [Reactjs, Vuejs, Express, Nodejs, Cypress, Firebase, HTML, CSS&SCSS&SASS, Go, Spring Boot, Docker, Java, Django]
 
-### 💼 **Current Job as Cooperative Education Student :** [Agile Engineer](https://www.odd-e.com/th/services/)  
+### 💼 **Current Job :** Agile Engineer at [ODDS](https://www.odd-e.com/th/services/)  
 
-### 🚧 **Current Working Project:** [Web App Using ReactJs TypeScript](https://github.com/pongsakorn-maker/happy-dev-web-and-game)  
 
 ![ภาพ](https://user-images.githubusercontent.com/42669586/122533089-5e690e80-d04b-11eb-9717-d464663df5c6.png)
