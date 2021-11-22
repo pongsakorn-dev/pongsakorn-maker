@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Leo
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pongsakorn-make&show_icons=true&theme=vue-dark&title_color=606060&text_color=606060&bg_color=00000000">
+![Pongsakorn-maker's GitHub stats](https://github-readme-stats.vercel.app/api?username=pongsakorn-maker&show_icons=true&theme=vue_dark)
 
 ### 🏠 I live in Bangkok, Thailand
 
