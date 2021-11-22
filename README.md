@@ -8,8 +8,6 @@
 
 ### 🎓 Studying Computer Engineering, At SuranareeUniversity of Technology. Graduated in July, 2021
 
-### 💻 Domain Knowledge and Skills [Reactjs, Vuejs, Express, Nodejs, Cypress, Firebase, HTML, CSS&SCSS&SASS, Go, Spring Boot, Docker, Java, Django]
-
 ### 💼 **Current Job :** Agile Engineer at [ODDS](https://www.odd-e.com/th/services/)  
 
 
