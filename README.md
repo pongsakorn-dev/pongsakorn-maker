@@ -1,5 +1,5 @@
 
-### 🎓 Bachelor of Engineering: Computer Engineering, At SuranareeUniversity of Technology. Graduated in July, 2021
+### 🎓 Bachelor of Engineering: Computer Engineering, SuranareeUniversity of Technology. Graduated in July, 2021
 
 ### 💼 **Current Job :** Agile Engineer at [ODDS](https://www.odd-e.com/th/services/)  
 
